@@ -57,7 +57,7 @@ window.onload = function() {
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
     // this is the url for the profile avatar
     avatarURL:
-      "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=740&t=st=1698166087~exp=1698166687~hmac=33cef2a5b5d44e3a7507ce0d0778e58253ab3008caf586ea59aaa354482773af",
+      "https://ca.slack-edge.com/T0BFXMWMV-U05188K9WDV-4fe13dae47ee-512",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
